@@ -1,0 +1,7 @@
+/* static/css/input.css */
+
+@import "tailwindcss";
+
+@theme {
+    --font-sans: Poppins, sans-serif;
+}
